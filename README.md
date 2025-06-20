@@ -67,13 +67,9 @@ Key takeaways:
 ---
 
 ## 📁 Folder Structure
-Car-Evaluation-Classification/
-├── notebooks/
-│ └── car_evaluation_study.ipynb # Jupyter/Colab notebook
-├── src/ # Optional Python scripts
-├── figures/ # Optional output plots
-├── README.md
-└── requirements.txt
+- `car_evaluation_study.ipynb`: Main Jupyter Notebook with full pipeline
+- `README.md`: Project description
+- `requirements.txt`: (Optional) Python dependencies
 
 
 ---
