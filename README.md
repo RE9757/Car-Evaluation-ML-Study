@@ -70,6 +70,7 @@ Key takeaways:
 - `car_evaluation_study.ipynb`: Main Jupyter Notebook with full pipeline
 - `README.md`: Project description
 - `requirements.txt`: (Optional) Python dependencies
+- `data/`: Contains the raw dataset (car.data) used for model training and evaluation
 
 
 ---
